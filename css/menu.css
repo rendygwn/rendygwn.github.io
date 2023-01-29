@@ -1,0 +1,169 @@
+@media (min-width: 992px) {
+    /* Navbar */
+    .content h4{
+        position: relative;
+        background-color: rgba(255, 255, 255, 0.1);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+        backdrop-filter: blur;
+        width: 580px;
+        padding: 10px;
+        overflow: hidden;
+        margin-top: 15%;
+        font-family: krona one;
+        font-size: 30px;
+        font-weight: 200px;
+        z-index: 2;
+    }
+
+    .content p {
+        font-family: poppins;
+        font-size: 12px;
+        margin-top: 20px;
+    }
+
+    .gambar img {
+        width: 600px;
+        height: 450px;
+        margin-top: -30%;
+        margin-left: 45%;
+    }
+
+    /* Content */
+    .isicontent1 img {
+        position: absolute;
+        width: 350px;
+        height: 350px;
+        border-radius: 10px;
+        box-shadow: 0 3px 20px rgba(0, 0, 0, 0.4);
+        margin-left: 30px;
+        margin-top: -30px;
+    }
+
+    .content1 {
+        box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+        background-color: seagreen;
+        width: 350px;
+        height: 350px;
+        border-radius: 10px;
+        margin-top: 200px;
+    }
+
+    .content1 h4 {
+        position: absolute;
+        font-family: poppins;
+        font-size: 28px;
+        margin-left: 32%;
+        margin-top: 60px;
+    }
+    
+    .content1 p {
+        position: absolute;
+        font-size: 20px;
+        margin-left: 32%;
+        margin-top: 10%;
+    }
+    
+    .content2 {
+        margin-top: 10%;
+    }
+    
+    .content2 .text1 h4 {
+        font-family: poppins;
+        font-size: 24px;
+    }
+
+    .content2 .text1 p {
+        font-size: 18px;
+    }
+
+    .content2 .text2 h4 {
+        font-family: poppins;
+        font-size: 24px;
+        margin-top: 4%;
+    }
+
+    .content2 .text2 p {
+        font-size: 18px;
+    }
+
+    .content2 .text3 h4 {
+        font-family: poppins;
+        font-size: 24px;
+        margin-top: 4%;
+    }
+
+    .content2 .text3 p {
+        font-size: 18px;
+    }
+
+    .content2 .text4 h4 {
+        font-family: poppins;
+        font-size: 24px;
+        margin-top: 4%;
+    }
+
+    .content2 .text4 p {
+        font-size: 18px;
+    }
+
+    .content2 .text5 h4 {
+        font-family: poppins;
+        font-size: 24px;
+        margin-top: 4%;
+    }
+
+    .content2 .text5 p {
+        font-size: 18px;
+    }
+
+    .isicontent3 h4 {
+        text-align: center;
+        font-family: poppins;
+        font-size: 28px;
+        font-style: medium;
+        font-weight: 200px;
+        margin-top: 10%;
+    }
+
+    .isicontent3 h5 {
+        text-align: center;
+        font-family: poppins;
+        font-size: 20px;
+        font-style: medium;
+        font-weight: 200px;
+    }
+
+    .card {
+        margin-top: 10%;
+    }
+
+    .card-body .card-title {
+        font-family: poppins;
+        font-size: 18px;
+    }
+
+    .card-body h6 {
+        font-family: poppins;
+        font-size: 16px;
+    }
+
+    .card-body ul {
+        font-size: 14px;
+    }
+
+    .card-body .text4 p {
+        margin-top: 35%;
+    }
+
+    .card-body .text5 p {
+        margin-top: 30%;
+    }
+
+    /* Footer */
+    .footer .text1 a {
+        font-family: krona one;
+        color: black;
+        font-size: 24px;
+        margin-left: 20%;
+    }
+}

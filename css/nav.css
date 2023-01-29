@@ -1,0 +1,174 @@
+@media (min-width: 992px) {
+    /* Navbar */
+    .navbar {
+        position: relative;
+    }
+
+    .navbar-brand {
+        font-family: Krona One;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+    }
+
+    .nav-link {
+        font-family: Poppins;
+        font-style: normal;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .navbar-brand, .nav-link {
+        text-shadow: 1px 1px 1px rgba(0,0,0,.1);
+    }
+
+    .nav-link:hover::after{
+        content: '';
+        display: block;
+        border-bottom: 3px solid black;
+        width: 50%;
+        margin-right: auto;
+        padding-bottom: 5px;
+        margin-bottom: -8px;
+    }
+
+    /* Footer */
+    .footer {
+        position: absolute;
+        background-color: black;
+        width: 100%;
+        height: 2px;
+        left: 0px;
+        margin-top: 15%;
+    }
+
+    .footer .text1 h5 {
+        font-family: krona one;
+        font-size: 24px;
+        margin-top: 50px;
+        margin-left: 20%;
+    }
+
+    .footer .text1 p {
+        font-family: poppins;
+        font-size: 16px;
+        font-weight: 200px;
+        margin-top: 20px;
+        margin-left: 20%;
+    }
+
+    .footer .text2 h5 {
+        font-family: krona one;
+        font-size: 18px;
+        margin-top: 50px;
+        margin-left: 20%;
+    }
+
+    .footer .text2 a {
+        color: black;
+        font-family: poppins;
+        font-size: 16px;
+        font-weight: 200px;
+        margin-top: 20px;
+        margin-left: 20%;
+    }
+
+    .footer .text3 h5 {
+        font-family: krona one;
+        font-size: 18px;
+        margin-top: 50px;
+        margin-left: 20%;
+    }
+
+    .footer .text3 a {
+        color: black;
+        font-family: poppins;
+        font-size: 16px;
+        font-weight: 200px;
+        margin-top: 20px;
+        margin-left: 20%;
+    }
+
+    .footer .text4 h5 {
+        font-family: krona one;
+        font-size: 18px;
+        margin-top: 50px;
+        margin-left: 20%;
+    }
+
+    .footer .text4 a {
+        color: black;
+        font-family: poppins;
+        font-size: 16px;
+        font-weight: 200px;
+        margin-top: 20px;
+        margin-left: 20%;
+    }
+
+    .footerbawah{
+        position: absolute;
+        background-color: black;
+        width: 100%;
+        height: 2px;
+        left: 0px;
+        margin-top: 32%;
+    }
+
+    .fotbar {
+        position: absolute;
+        background-color: #c4c4c4;
+        width: 100%;
+        height: 70px;
+        margin-top: 2px;
+    }
+
+    .footerbawah .text5 h5 {
+        color: darkslategrey;
+        font-family: poppins;
+        font-size: 14px;
+        font-weight: 200px;
+        margin-top: 20px;
+        margin-left: 10%;
+    }
+
+    .footerbawah .text6 h5 {
+        color: darkslategrey;
+        font-family: poppins;
+        font-size: 14px;
+        font-weight: 200px;
+        margin-top: 20px;
+        margin-left: -30%;
+    }
+
+    /* Ultility */
+        .form {
+            text-align: left;
+            color: black !important;
+            text-transform: none;
+            border-radius: 40px;
+        }
+
+        .icon {
+            position: absolute;
+            right: 15%;
+            bottom: 50px;
+        }
+    
+        .icon2 {
+            color: darkslategrey;
+            margin-top: 20px;
+            left: 15%;
+        }
+        
+        .fa-facebook {
+            color: blue;
+        }
+    
+        .fa-instagram {
+            color: palevioletred;
+        }
+    
+        .fa-twitter {
+            color: lightskyblue;
+        }
+}

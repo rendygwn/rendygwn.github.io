@@ -1,0 +1,178 @@
+@media (min-width: 992px) {
+    /* Navbar */
+    .content h1{
+        position: relative;
+        background-color: rgba(255, 255, 255, 0.1);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+        backdrop-filter: blur;
+        width: 620px;
+        padding: 10px;
+        overflow: hidden;
+        margin-top: 10%;
+        font-family: krona one;
+        font-style: normal;
+        font-size: 30px;
+        font-weight: 200;
+        z-index: 2;
+    }
+
+    .content p {
+        font-family: poppins;
+        font-size: 12px;
+        margin-top: 20px;
+    }
+
+    .gambar img {
+        width: 600px;
+        height: 450px;
+        margin-top: -30%;
+        margin-left: 45%;
+    }
+
+    /* Content */
+    .isicontent1 h4 {
+        text-align: center;
+        font-family: poppins;
+        font-size: 28px;
+        font-style: medium;
+        font-weight: 200px;
+        margin-top: 10%;
+    }
+
+    .isicontent1 h5 {
+        text-align: center;
+        font-family: poppins;
+        font-size: 20px;
+        font-style: medium;
+        font-weight: 200px;
+    }
+
+    .isicontent2 h4 {
+        text-align: left;
+        font-family: poppins;
+        font-size: 28px;
+        font-style: medium;
+        font-weight: 200px;
+        margin-top: 10%;
+    }
+
+    .isicontent2 img {
+        position: absolute;
+        width: 350px;
+        height: 350px;
+        border-radius: 10px;
+        margin-left: 30px;
+        margin-top: -30px;
+    }
+
+    .content2 {
+        box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+        background-color: seagreen;
+        width: 350px;
+        height: 350px;
+        border-radius: 10px;
+        margin-top: 60px;
+    }
+
+    .content2 h4 {
+        position: absolute;
+        font-family: poppins;
+        font-size: 24px;
+        margin-left: 35%;
+        margin-top: 60px;
+    }
+    
+    .content2 p {
+        position: absolute;
+        font-size: 18px;
+        margin-left: 35%;
+        margin-top: 10%;
+    }
+
+    .content3 .text1 h4 {
+        font-family: poppins;
+        font-size: 24px;
+    }
+
+    .content3 .text1 p {
+        font-size: 18px;
+    }
+
+    .content3 .text2 h4 {
+        font-family: poppins;
+        font-size: 24px;
+        margin-top: 4%;
+    }
+
+    .content3 .text2 p {
+        font-size: 18px;
+    }
+
+    .content3 .text3 h4 {
+        font-family: poppins;
+        font-size: 24px;
+        margin-top: 4%;
+    }
+
+    .content3 .text3 p {
+        font-size: 18px;
+    }
+
+    .content3 .text4 h4 {
+        font-family: poppins;
+        font-size: 24px;
+        margin-top: 4%;
+    }
+
+    .content3 .text4 p {
+        font-size: 18px;
+    }
+
+    .content3 .text5 h4 {
+        font-family: poppins;
+        font-size: 24px;
+        margin-top: 4%;
+    }
+
+    .content3 .text5 p {
+        font-size: 18px;
+    }
+
+    .content3 .text6 h4 {
+        font-family: poppins;
+        font-size: 24px;
+        margin-top: 4%;
+    }
+
+    .content3 .text6 p {
+        font-size: 18px;
+    }
+
+    .content3 .text7 h4 {
+        font-family: poppins;
+        font-size: 24px;
+        margin-top: 4%;
+    }
+
+    .content3 .text7 p {
+        font-size: 20px;
+    }
+
+    .content3 .text8 h4 {
+        font-family: poppins;
+        font-size: 24px;
+        margin-top: 4%;
+    }
+
+    .content3 .text8 p {
+        font-size: 18px;
+    }
+
+    /* Footer */
+    .footer .text1 a {
+        font-family: krona one;
+        color: black;
+        font-size: 24px;
+        margin-left: 20%;
+    }
+}
